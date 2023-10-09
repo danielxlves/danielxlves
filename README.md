@@ -3,7 +3,7 @@
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-Hello, my name is Daniel Alves, and I'm currently studying every day to enhance my web development skills. This is my beloved portfolio.
+  <span> Hello, my name is Daniel Alves, and I'm currently studying every day to enhance my web development skills. This is my beloved portfolio. </span>
   
 <div align="center">
   <br>
@@ -18,19 +18,23 @@ Hello, my name is Daniel Alves, and I'm currently studying every day to enhance 
 <img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
+### Stack tech and what i'm learning
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+    &nbsp;  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  </div>
+
 ### Experiences
 
 - 📚 Monitor nas disciplinas banco de dados, desenvolvimento back-end, desenvolvimento mobile e plataformas web - Universidade Federal do Rio grande do Norte - IMD.
 
-
-### Stack tech and what i'm learning
-  <div>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  </div>
 
 ### Articles
 
@@ -38,7 +42,7 @@ Hello, my name is Daniel Alves, and I'm currently studying every day to enhance 
 
 
 
-
-
-
-Source of this readme --> @camilafernanda (github)
+<br>
+<br>
+<br>
+<hr>
