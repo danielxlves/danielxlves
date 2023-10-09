@@ -5,8 +5,9 @@
 <tr><td valign="top" width="50%">
 Hello, my name is Daniel Alves, and I'm currently studying every day to enhance my web development skills. This is my beloved portfolio.
   
-<div align="center"> 
-  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+<div align="center">
+  <br>
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=6c09b952wk2a03vmdltp3m44641g559i6b7zgqdtjkjlne58&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Gif de um cachorrinho de gravata mexendo no computador">
 </div>
 
 </td></tr>
