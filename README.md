@@ -1,40 +1,35 @@
-### Hello! I'm Daniel Alves 👋
+## Welcome my github 👋!
 
-- My tech stack
-  <ul>
-    <li>
+<p align="right">
+<table width="100%">
+<tr><td valign="top" width="50%">
+Hello, my name is Daniel Alves, and I'm currently studying every day to enhance my web development skills. This is my beloved portfolio.
+  
+<div align="center"> 
+  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+</div>
+
+</td></tr>
+</table>
+</p>
+
+<p align="right">
+<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
+
+### Experiences
+
+- 📚 Monitor nas disciplinas banco de dados, desenvolvimento back-end, desenvolvimento mobile e plataformas web - Universidade Federal do Rio grande do Norte - IMD.
+
+
+### Stack tech and what i'm learning
+
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-    </li>
-    <li>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" />
-    </li>
-    <li>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
-    </li>
-    <li>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-    </li>
-    <li>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-    </li>
-    <li>
-    </li>
-  </ul>
 
-- Linkedin
-<a href="https://www.linkedin.com/in/alves-daniel-nascimento" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+### Articles
 
-<!--
-**danielxlves/danielxlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [O que são e para o que servem as diretivas do angular?](https://www.tabnews.com.br/danielxlves/o-que-sao-e-para-o-que-servem-as-diretivas-do-angular)
