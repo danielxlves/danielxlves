@@ -14,9 +14,6 @@
 </table>
 </p>
 
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
 
 ### Stack tech and what i'm learning
   <div>
