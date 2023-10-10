@@ -1,4 +1,4 @@
-## Welcome my github 👋!
+## Welcome to my github 👋!
 
 <p align="right">
 <table width="100%">
