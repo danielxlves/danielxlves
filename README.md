@@ -1,4 +1,4 @@
-## Welcome to my github 👋!
+## Olá seja bem-vindo ao meu github 👋!
 
 <p align="right">
 <table width="100%">
@@ -15,7 +15,7 @@
 </p>
 
 
-### Stack tech and what i'm learning
+### Minha pilha tecnológica que estou em aprendizado contínuo.
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
     &nbsp;
@@ -33,16 +33,16 @@
     &nbsp;
   </div>
 
-### Contact:
+### Contato:
   <a href="https://www.linkedin.com/in/alves-daniel-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-### Experiences
+### Experiências
 
 - 📚 Monitor nas disciplinas banco de dados, desenvolvimento back-end, desenvolvimento mobile e plataformas web - Universidade Federal do Rio grande do Norte - IMD.
 
 
-### Articles
+### Artigos
 
 - [O que são e para o que servem as diretivas do angular?](https://www.tabnews.com.br/danielxlves/o-que-sao-e-para-o-que-servem-as-diretivas-do-angular)
 
