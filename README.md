@@ -42,5 +42,6 @@
 ### Artigos
 
 - [O que são e para o que servem as diretivas do angular?](https://www.tabnews.com.br/danielxlves/o-que-sao-e-para-o-que-servem-as-diretivas-do-angular)
+- [Sistemas Operacionais: Da Era das Válvulas à Conectividade Moderna](https://dio.me/articles/sistemas-operacionais-da-era-das-valvulas-a-conectividade-moderna).
 
 <hr>
