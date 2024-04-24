@@ -29,3 +29,12 @@
 - [Sistemas Operacionais: Da Era das Válvulas à Conectividade Moderna](https://dio.me/articles/sistemas-operacionais-da-era-das-valvulas-a-conectividade-moderna)
 
 <hr>
+
+## :star2: Githubs Stats
+
+<p>
+  <a href="https://github.com/danielxlves">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielxlves&show_icons=true&hide_border=true&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielxlves&hide_border=true&layout=compact&langs_count=6&theme=cobalt"/>
+  </a> 
+</p>
