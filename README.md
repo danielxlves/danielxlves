@@ -30,7 +30,7 @@
 
 <hr>
 
-## :star2: Githubs Stats
+## Githubs Stats :star2:
 
 <p>
   <a href="https://github.com/danielxlves">
