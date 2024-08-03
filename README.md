@@ -3,7 +3,7 @@
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-  <span> O meu nome é Daniel, e estou estudando todos os dias para melhorar as minhas capacidades de desenvolvimento web. Este é o meu querido portfólio. </span>
+  <span> O meu nome é Daniel, e estou estudando todos os dias para chegar no nível do gatinho abaixo.</span>
   
 <div align="center">
   <br>
