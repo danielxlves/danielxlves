@@ -3,11 +3,11 @@
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-  <span> O meu nome é Daniel, e estou estudando todos os dias para chegar no nível do gatinho abaixo.</span>
+  <span>Dedicando-me todos os dias para chegar no nível do gatinho abaixo.</span>
   
 <div align="center">
   <br>
-  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=6c09b952wk2a03vmdltp3m44641g559i6b7zgqdtjkjlne58&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Gif de um cachorrinho de gravata mexendo no computador">
+  <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=6c09b952wk2a03vmdltp3m44641g559i6b7zgqdtjkjlne58&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Gif de um gato mexendo no computador">
 </div>
 
 </td></tr>
